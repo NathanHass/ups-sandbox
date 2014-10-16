@@ -1,4 +1,5 @@
-ups-sandbox
-===========
+A small starter kit for test environments
 
-A small starter kit for test enviornments
+### Install
+
+add steps here

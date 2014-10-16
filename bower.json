@@ -1,0 +1,14 @@
+{
+  "name": "ups-sandbox",
+  "version": "0.1.0",
+  "dependencies": {
+    "jquery": "*",
+    "Upbase": "git@github.com:Upstatement/upbase.git",
+    "modernizr": "~2.8.3"
+  },
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "components"
+  ]
+}
