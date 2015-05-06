@@ -3,7 +3,7 @@ A small starter kit for test environments
 ### Getting Started Started
 
 
-* Navigate to your Sites directory
+* Navigate to your `Sites` directory
 
 ```
 cd ~/Sites
