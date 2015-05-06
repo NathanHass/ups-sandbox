@@ -4,11 +4,11 @@
 http_path = "/"
 
 # And this is where compass will watch and compile stuff when it runs:
-css_dir = "css/"
-sass_dir = "scss"
-images_dir = "img"
-javascripts_dir = "js"
-fonts_dir = "src/fonts"
+css_dir = "static/css/"
+sass_dir = "static/scss"
+images_dir = "static/img"
+javascripts_dir = "static/js"
+fonts_dir = "static/fonts"
 relative_assets = true
 
 # This line tells compass to look at the Upbase styles in your bower_components dir
